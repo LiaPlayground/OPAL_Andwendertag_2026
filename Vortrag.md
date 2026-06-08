@@ -335,11 +335,11 @@ playsinline="true"
 
 
 {{7}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/2.png" width="40" height="40">  Über 6800 Seiten an Aufgaben mit Musterlösungen. </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/2.png" width="40" height="40">  Über 6800 Seiten an Aufgaben mit Musterlösungen </h3> 
 
 
 {{7}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/3.png" width="40" height="40">  Repetitorium mit mehr als 1500 Seiten Erklärungen, Aufgaben und Lösungen. </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/3.png" width="40" height="40">  Repetitorium mit mehr als 1500 Seiten Erklärungen, Aufgaben und Lösungen </h3> 
 
 
 </div>
@@ -362,18 +362,18 @@ playsinline="true"
 
 
 {{1}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40">  PDFs bieten keine Interaktionsmöglichkeit. </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40">  PDFs bieten keine Interaktionsmöglichkeit </h3> 
 
 
 {{2}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> keine Rückmeldung für die Lernenden. </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> keine Rückmeldung für die Lernenden </h3> 
 
 {{3}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> keine Rückmeldung für die Lehrkräfte. </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> keine Rückmeldung für die Lehrkräfte </h3> 
 
 
 {{4}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Entlastet im Unterricht nicht, da "Ist das richtig?"-Meldungen bleiben. </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Entlastet im Unterricht nicht, da "Ist das richtig?"-Meldungen bleiben </h3> 
 
 
 </div>
@@ -383,7 +383,7 @@ playsinline="true"
 
 
 {{5}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/4.png" width="40" height="40"> Es braucht interaktive digitale Aufgaben. </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/4.png" width="40" height="40"> Es braucht interaktive digitale Aufgaben </h3> 
 
 
 </div>
@@ -412,13 +412,13 @@ playsinline="true"
 <h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/5.png" width="40" height="40">  Es wird fast nur Anforderungsbereich 1 angeboten ("Gib an") </h3> 
 
 {{5}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/5.png" width="40" height="40">  Beschränkung aufs Angebot durch Vorgabe des Unternehmens </h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/5.png" width="40" height="40">  Beschränkung auf das Angebot durch Vorgaben des Unternehmens </h3> 
 
 {{7}}
 <h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/5.png" width="40" height="40">  Repetitiver Inhalt </h3> 
 
 {{9}}
-<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/5.png" width="40" height="40">  Stellenweise müssen Antworten in einem speziellen Syntax eingegeben werden</h3> 
+<h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/5.png" width="40" height="40">  Antworten müssen teilweise in einem speziellen Syntax eingegeben werden </h3> 
 
 
 {{11}}
@@ -432,22 +432,22 @@ playsinline="true"
 <div class="flex-child">
 
 {{2}}
-<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Bildung sollte kostenlos sein. </h3> 
+<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Bildung sollte kostenlos sein </h3> 
 
 {{4}}
-<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Rechenwege, Erklären, Zeichen, Vernetzen, usw. und nicht nur üben. </h3> 
+<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Rechenwege, Erklärungen, Zeichnungen, Vernetzungen usw. und nicht nur üben </h3> 
 
 {{6}}
-<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Unterricht muss auf Lerngruppe abgestimmt sein. </h3> 
+<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Unterricht muss auf Lerngruppen abgestimmt sein. </h3> 
 
 {{8}}
-<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Auswendige Ergebiseingaben statt denken. </h3> 
+<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Auswendige gelernte Eingaben statt kognitiver Aktivierung </h3> 
 
 {{10}}
-<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Es sollte das Fach und nicht das Programm unterrichtet werden. </h3> 
+<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Es sollte das Fach und nicht das Programm unterrichtet werden </h3> 
 
 {{12}}
-<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Keine Entlastung im Unterricht und Verstärkung der Herkunftsungleichheit. </h3> 
+<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Keine Entlastung im Unterricht und Verstärkung der Herkunftsungleichheit </h3> 
 
 
 </div>
@@ -479,7 +479,7 @@ playsinline="true"
 <h3>LiaScript braucht keine Installation </h3> 
 
 {{5}}
-<h3>LiaScript ist DSGVO konform </h3> 
+<h3>LiaScript ist DSGVO-konform </h3> 
 
 
 </div>
@@ -497,7 +497,7 @@ playsinline="true"
 <h3>LiaScript wird dezentral im eigenen Browser realisiert. </h3> 
 
 {{8}}
-<h3>Wurde ein Kurs einmal geladen ist alles offline abrufbar. </h3> 
+<h3>Wurde ein Kurs einmal geladen, ist alles offline abrufbar. </h3> 
 
 
 </div>
@@ -621,7 +621,7 @@ Bespiel 2: **Gib** den Term $x^2-2x+1$ in einer beliebigen Umformung in das Lös
 
 {{4}}
 **************************
-__$a)\;\;$__ **Gib** den Funktionsterm **an**, um den Graphen darstellen zulassen.
+__$a)\;\;$__ **Gib** den Funktionsterm **an**, um den Graphen darstellen zu lassen.
 
 @PlotEingabeLatex(`A9;g;#b41f65`)
 **************************
@@ -637,7 +637,7 @@ __$a)\;\;$__ **Gib** den Funktionsterm **an**, um den Graphen darstellen zulasse
 ---
 
 {{5}}
-__$b)\;\;$__ **Zeichne** drei beliebe Punkte in das Koordinatensystem **ein** und **führe** die Regression **durch**.
+__$b)\;\;$__ **Zeichne** drei beliebige Punkte in das Koordinatensystem **ein** und **führe** die Regression **durch**.
 
 
 
