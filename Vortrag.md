@@ -438,7 +438,7 @@ playsinline="true"
 <h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Rechenwege, Erklärungen, Zeichnungen, Vernetzungen usw. und nicht nur üben </h3> 
 
 {{6}}
-<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Unterricht muss auf Lerngruppen abgestimmt sein. </h3> 
+<h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Unterricht muss auf Lerngruppen abgestimmt sein </h3> 
 
 {{8}}
 <h3> $\Rightarrow\;$ <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/0.png" width="40" height="40"> Auswendige gelernte Eingaben statt kognitiver Aktivierung </h3> 
@@ -494,10 +494,10 @@ playsinline="true"
 
 
 {{7}}
-<h3>LiaScript wird dezentral im eigenen Browser realisiert. </h3> 
+<h3>LiaScript wird dezentral im eigenen Browser realisiert </h3> 
 
 {{8}}
-<h3>Wurde ein Kurs einmal geladen, ist alles offline abrufbar. </h3> 
+<h3>Wurde ein Kurs einmal geladen, ist alles offline abrufbar </h3> 
 
 
 </div>
@@ -525,10 +525,10 @@ playsinline="true"
 > <h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/1.png" width="40" height="40"> Mathematische Schrifterkennung </h3> 
 
 {{2}}
-<h3>LiaScript erkennt über den Browser mathematische Verschriftlichung. </h3> 
+<h3>LiaScript erkennt über den Browser mathematische Verschriftlichung </h3> 
 
 {{3}}
-<h3>$\Rightarrow\;\;$ Es muss kein Eingabesyntax erlernt werden. </h3> 
+<h3>$\Rightarrow\;\;$ Es muss kein Eingabesyntax erlernt werden </h3> 
 
 {{4}}
 ---
@@ -548,7 +548,7 @@ Bespiel: **Gib** den Bruch $\dfrac{23}{35}$ **an**.
 > <h3> <img src="https://raw.githubusercontent.com/MINT-the-GAP/Aufgabensammlung/refs/heads/main/pics/grad/1.png" width="40" height="40"> Eingebettes Computer-Algebra-System </h3> 
 
 {{6}}
-<h3>LiaScript verfügt über ein CAS. </h3> 
+<h3>LiaScript verfügt über ein CAS </h3> 
 
 {{7}}
 ---
