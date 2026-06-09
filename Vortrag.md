@@ -248,7 +248,7 @@ zu schaffen.
 
 > **Funktioniert das im Hochschulalltag?**
 
-!?[](https://private-user-images.githubusercontent.com/10922356/293702414-00a24602-dc63-4b9a-894b-80967b914513.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA5NzQ2ODQsIm5iZiI6MTc4MDk3NDM4NCwicGF0aCI6Ii8xMDkyMjM1Ni8yOTM3MDI0MTQtMDBhMjQ2MDItZGM2My00YjlhLTg5NGItODA5NjdiOTE0NTEzLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA5VDAzMDYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3ZWRhOTJmM2U0MDhkYjI4NzhlZmUyN2ZmNGExYmE4MjI0MzIyMDFlNDEzMzliNjdlNjU0Zjg3ZTZiMWFiZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.eHM7Ae_C0YJbzgSbwu9bFBMTjctUIP9XOBqv75O0u5g "Kollaborative Entwicklungsprozesse in den LiaScript-Materialien der Arbeitsgruppe [Link]()")<!--
+!?[](https://raw.githubusercontent.com/LiaPlayground/OPAL_Andwendertag_2026/main/collaboration_github.mp4 "Kollaborative Entwicklungsprozesse in den LiaScript-Materialien der Arbeitsgruppe [Link]()")<!--
 autoplay="true"
 muted="true"
 loop="true"
