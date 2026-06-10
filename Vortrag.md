@@ -134,11 +134,13 @@ edit: true
 
 > Sie finden unseren Kurs 
 >
-> + unter OPAL als Beispiel die Intragration von LiaScriptinhalten in das sächsische LMS [Link](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/28960423936/CourseNode/1753151679007485003?18) und 
+> + unter OPAL als Beispiel die Intragration von LiaScriptinhalten [Link](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/28960423936/CourseNode/1753151679007485003?18) und 
 > + als offene OER auf GitHub [Link](https://github.com/LiaPlayground/OPAL_Andwendertag_2026)
 
->[!CAUTION]
-> Hier sollten wir noch QR Codes auf die beiden Links generieren und einfügen — damit die Leute direkt mit ihrem Handy drauf zugreifen können.
+| OPAL               | OER auf GitHub                        |
+| :---------------------------------: | :-----------------------------------: |
+| ![QR-Code OPAL-Kurs](qr_opal.png)   | ![QR-Code GitHub-Repository](qr_github.png) |
+| 
 
 ## LiaScript — was ist das?
 
@@ -174,6 +176,7 @@ __Tabellen__
 ````markdown @embed.style(height: 600px; min-width: 100%; border: 1px black solid)
 <!--
 import: https://raw.githubusercontent.com/liaTemplates/ABCjs/main/README.md
+        https://raw.githubusercontent.com/LiaTemplates/Pyodide/master/README.md
 -->
 
 # Der Browser als Plattform
@@ -724,7 +727,7 @@ __$b)\;\;$__ **Zeichne** drei beliebige Punkte in das Koordinatensystem **ein** 
 
 In diesem Fall lädt der Interpreter die `.md`-Datei direkt von GitHub oder einem anderen Webserver und rendert sie im Browser.
 
-> ????? Hier kommt der raw-URL rein
+> [Quellcode dieses Vortrages](https://raw.githubusercontent.com/LiaPlayground/OPAL_Andwendertag_2026/refs/heads/main/Vortrag.md)
 
 >  Warum dann doch ein LMS? Weil Lehrende die Infrastruktur eines LMS gewohnt sind — und weil es Vorteile bringt, den Inhalt direkt im LMS zu haben (z.B. Ergebnisrückmeldung, Kursstruktur, Zugriffskontrolle).
 
@@ -772,22 +775,6 @@ Nativer Support für LiaScript in OPAL — direkt aus der Kursablage, ohne Expor
 </div>
 
 
-## Live-Workflow: WebDAV, OPAL & LiaScript
-
-- Kursablageordner per **WebDAV** als Netzlaufwerk einbinden.
-- `.md`-Datei direkt im gewohnten Editor bearbeiten → speichern → im Kurs neu laden.
-- Kein Export, kein Re-Import — **Bearbeiten und Veröffentlichen fallen zusammen.**
-
-> 🖥️ **Demo**
->
-> _Sebastian: Testkurs in OPAL öffnen → diese Datei per WebDAV ändern → im Kurs
-> nachladen → Änderung ist live._
-
-                          --{{0}}--
-Und weil der Inhalt im Kursordner liegt, kann ich ihn per WebDAV wie eine normale
-Datei bearbeiten. Ich zeige das jetzt live an genau diesem Vortrag — eine kleine
-Änderung, speichern, neu laden, fertig. Bearbeiten und Veröffentlichen sind dasselbe.
-
 ## Welcher Weg wann?
 
 | Wenn …                                          | … dann                |
@@ -811,7 +798,3 @@ und wenn der Inhalt bequem in OPAL leben und gepflegt werden soll, das native In
 > Sebastian Zug · TU Bergakademie Freiberg
 >
 > Martin Lommatzsch · Geschwister-Scholl-Gymnasium Freiberg
-
-                          --{{0}}--
-Vielen Dank für Ihre Aufmerksamkeit! Diese Präsentation lief gerade als LiaScript-Kurs
-in OPAL — der beste Beweis, dass es funktioniert. Wir freuen uns auf Ihre Fragen.
